@@ -1,0 +1,9 @@
+.warning{
+    color: gold;
+}
+.kecil{
+    font-size: smaller;
+}
+.kapital{
+    text-transform: capitalize;
+}
